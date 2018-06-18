@@ -1,0 +1,24 @@
+{
+  "name": "string_utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjfreund/string_utilities.git"
+  },
+  "author": "R.J. Freund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjfreund/string_utilities/issues"
+  },
+  "homepage": "https://github.com/rjfreund/string_utilities#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
